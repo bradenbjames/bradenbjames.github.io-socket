@@ -395,6 +395,7 @@ header
 
 .header-area .main-nav .logo {
   float: left;
+  color: #6ba1c4;
   margin-top: 37px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
